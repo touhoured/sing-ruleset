@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "cloudflareinsights-cn.com"
+      ],
+      "domain": [
+        "crashlyticsreports-pa.googleapis.com",
+        "firebase-settings.crashlytics.com",
+        "update.crashlytics.com"
+      ]
+    }
+  ]
+}

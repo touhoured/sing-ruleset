@@ -1,0 +1,25 @@
+name: build
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - run: |
+          git worktree add -B ruleset ruleset origin/ruleset || git worktree add --orphan -b ruleset ruleset
+          curl -fsSL https://sing-box.app/install.sh | sh
+          pip install pyyaml
+          python build.py
+      - working-directory: ruleset
+        run: |
+          git add -A
+          git diff --cached --quiet && exit 0
+          git -c user.name=github-actions -c user.email=github-actions@github.com commit -qm "Update rule sets"
+          git push origin ruleset

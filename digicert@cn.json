@@ -1,11 +1,1 @@
-{
-  "version": 2,
-  "rules": [
-    {
-      "domain_suffix": [
-        "dcocsp.cn",
-        "digicert.cn"
-      ]
-    }
-  ]
-}
+{"version": 2, "rules": [{"domain_suffix": ["dcocsp.cn", "digicert.cn"]}]}

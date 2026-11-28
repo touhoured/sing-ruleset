@@ -1,13 +1,1 @@
-{
-  "version": 2,
-  "rules": [
-    {
-      "domain_suffix": [
-        "kazanexpress.ru",
-        "magnit.com",
-        "magnit.ru",
-        "mm.ru"
-      ]
-    }
-  ]
-}
+{"version": 2, "rules": [{"domain_suffix": ["kazanexpress.ru", "magnit.com", "magnit.ru", "mm.ru"]}]}

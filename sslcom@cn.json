@@ -1,10 +1,1 @@
-{
-  "version": 2,
-  "rules": [
-    {
-      "domain_suffix": [
-        "sslcom.cn"
-      ]
-    }
-  ]
-}
+{"version": 2, "rules": [{"domain_suffix": ["sslcom.cn"]}]}

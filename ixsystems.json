@@ -1,11 +1,1 @@
-{
-  "version": 2,
-  "rules": [
-    {
-      "domain_suffix": [
-        "ixsystems.com",
-        "truenas.com"
-      ]
-    }
-  ]
-}
+{"version": 2, "rules": [{"domain_suffix": ["ixsystems.com", "truenas.com"]}]}

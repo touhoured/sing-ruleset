@@ -1,15 +1,1 @@
-{
-  "version": 2,
-  "rules": [
-    {
-      "domain_suffix": [
-        "fedoraforum.org",
-        "fedorainfracloud.org",
-        "fedoramagazine.org",
-        "fedorapeople.org",
-        "fedoraproject.org",
-        "getfedora.org"
-      ]
-    }
-  ]
-}
+{"version": 2, "rules": [{"domain_suffix": ["fedoraforum.org", "fedorainfracloud.org", "fedoramagazine.org", "fedorapeople.org", "fedoraproject.org", "getfedora.org"]}]}

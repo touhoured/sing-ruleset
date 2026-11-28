@@ -1,12 +1,1 @@
-{
-  "version": 2,
-  "rules": [
-    {
-      "domain_suffix": [
-        "javbus.com",
-        "javbus22.com",
-        "javcdn.cc"
-      ]
-    }
-  ]
-}
+{"version": 2, "rules": [{"domain_suffix": ["javbus.com", "javbus22.com", "javcdn.cc"]}]}

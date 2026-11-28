@@ -1,14 +1,1 @@
-{
-  "version": 2,
-  "rules": [
-    {
-      "domain_suffix": [
-        "docs.rw",
-        "log.rw",
-        "remna.dev",
-        "remna.st",
-        "try.rw"
-      ]
-    }
-  ]
-}
+{"version": 2, "rules": [{"domain_suffix": ["docs.rw", "log.rw", "remna.dev", "remna.st", "try.rw"]}]}

@@ -1,12 +1,1 @@
-{
-  "version": 2,
-  "rules": [
-    {
-      "domain_suffix": [
-        "wol.tv",
-        "wolai.com",
-        "wostatic.cn"
-      ]
-    }
-  ]
-}
+{"version": 2, "rules": [{"domain_suffix": ["wol.tv", "wolai.com", "wostatic.cn"]}]}

@@ -1,11 +1,1 @@
-{
-  "version": 2,
-  "rules": [
-    {
-      "domain_suffix": [
-        "c-span.org",
-        "c-spanvideo.org"
-      ]
-    }
-  ]
-}
+{"version": 2, "rules": [{"domain_suffix": ["c-span.org", "c-spanvideo.org"]}]}

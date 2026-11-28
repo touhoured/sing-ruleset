@@ -1,12 +1,1 @@
-{
-  "version": 2,
-  "rules": [
-    {
-      "domain_suffix": [
-        "vrchat.cloud",
-        "vrchat.com",
-        "vrchat.net"
-      ]
-    }
-  ]
-}
+{"version": 2, "rules": [{"domain_suffix": ["vrchat.cloud", "vrchat.com", "vrchat.net"]}]}

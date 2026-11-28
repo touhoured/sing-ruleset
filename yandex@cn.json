@@ -1,10 +1,1 @@
-{
-  "version": 2,
-  "rules": [
-    {
-      "domain_suffix": [
-        "yandex-ad.cn"
-      ]
-    }
-  ]
-}
+{"version": 2, "rules": [{"domain_suffix": ["yandex-ad.cn"]}]}

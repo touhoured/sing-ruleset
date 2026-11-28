@@ -1,13 +1,1 @@
-{
-  "version": 2,
-  "rules": [
-    {
-      "domain_suffix": [
-        "newcoder.com",
-        "nowcoder.com",
-        "nowcoder.net",
-        "nowcoder.org"
-      ]
-    }
-  ]
-}
+{"version": 2, "rules": [{"domain_suffix": ["newcoder.com", "nowcoder.com", "nowcoder.net", "nowcoder.org"]}]}

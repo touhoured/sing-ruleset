@@ -1,13 +1,1 @@
-{
-  "version": 2,
-  "rules": [
-    {
-      "domain_suffix": [
-        "op.gg"
-      ],
-      "domain": [
-        "opgg-static.akamaized.net"
-      ]
-    }
-  ]
-}
+{"version": 2, "rules": [{"domain_suffix": ["op.gg"], "domain": ["opgg-static.akamaized.net"]}]}

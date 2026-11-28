@@ -1,13 +1,1 @@
-{
-  "version": 2,
-  "rules": [
-    {
-      "domain_suffix": [
-        "openrec.tv"
-      ],
-      "domain": [
-        "dqd0jw5gvbchn.cloudfront.net"
-      ]
-    }
-  ]
-}
+{"version": 2, "rules": [{"domain_suffix": ["openrec.tv"], "domain": ["dqd0jw5gvbchn.cloudfront.net"]}]}

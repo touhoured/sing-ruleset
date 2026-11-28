@@ -1,13 +1,1 @@
-{
-  "version": 2,
-  "rules": [
-    {
-      "domain_suffix": [
-        "humblebundle.com"
-      ],
-      "domain": [
-        "hb.imgix.net"
-      ]
-    }
-  ]
-}
+{"version": 2, "rules": [{"domain_suffix": ["humblebundle.com"], "domain": ["hb.imgix.net"]}]}

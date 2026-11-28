@@ -1,11 +1,1 @@
-{
-  "version": 2,
-  "rules": [
-    {
-      "domain_suffix": [
-        "browser.events.data.msn.cn",
-        "browser.events.data.msn.com"
-      ]
-    }
-  ]
-}
+{"version": 2, "rules": [{"domain_suffix": ["browser.events.data.msn.cn", "browser.events.data.msn.com"]}]}

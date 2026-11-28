@@ -1,12 +1,1 @@
-{
-  "version": 2,
-  "rules": [
-    {
-      "domain_suffix": [
-        "lkcoffee.com",
-        "luckincoffeecdn.com",
-        "yyds.co"
-      ]
-    }
-  ]
-}
+{"version": 2, "rules": [{"domain_suffix": ["lkcoffee.com", "luckincoffeecdn.com", "yyds.co"]}]}

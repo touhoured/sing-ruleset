@@ -1,13 +1,1 @@
-{
-  "version": 2,
-  "rules": [
-    {
-      "domain_suffix": [
-        "heiyu.space",
-        "lazycat.cloud",
-        "linakesi.cn",
-        "linakesi.com"
-      ]
-    }
-  ]
-}
+{"version": 2, "rules": [{"domain_suffix": ["heiyu.space", "lazycat.cloud", "linakesi.cn", "linakesi.com"]}]}

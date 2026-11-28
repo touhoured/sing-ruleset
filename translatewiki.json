@@ -1,11 +1,1 @@
-{
-  "version": 2,
-  "rules": [
-    {
-      "domain_suffix": [
-        "translatewiki.net",
-        "translatewiki.org"
-      ]
-    }
-  ]
-}
+{"version": 2, "rules": [{"domain_suffix": ["translatewiki.net", "translatewiki.org"]}]}

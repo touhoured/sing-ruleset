@@ -1,14 +1,1 @@
-{
-  "version": 2,
-  "rules": [
-    {
-      "domain_suffix": [
-        "analytics.facebook.com",
-        "facebookads.com",
-        "graph-fallback.instagram.com",
-        "graph.instagram.com",
-        "pixel.facebook.com"
-      ]
-    }
-  ]
-}
+{"version": 2, "rules": [{"domain_suffix": ["analytics.facebook.com", "facebookads.com", "graph-fallback.instagram.com", "graph.instagram.com", "pixel.facebook.com"]}]}

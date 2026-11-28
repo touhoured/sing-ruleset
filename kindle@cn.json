@@ -1,12 +1,1 @@
-{
-  "version": 2,
-  "rules": [
-    {
-      "domain_suffix": [
-        "kindle.cn",
-        "kindleoasis.cn",
-        "kindleoasis.com.cn"
-      ]
-    }
-  ]
-}
+{"version": 2, "rules": [{"domain_suffix": ["kindle.cn", "kindleoasis.cn", "kindleoasis.com.cn"]}]}

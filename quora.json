@@ -1,17 +1,1 @@
-{
-  "version": 2,
-  "rules": [
-    {
-      "domain_suffix": [
-        "poe.com",
-        "poecdn.net",
-        "qr.ae",
-        "quora.com",
-        "quoracdn.net"
-      ],
-      "domain": [
-        "www.quora.com.cdn.cloudflare.net"
-      ]
-    }
-  ]
-}
+{"version": 2, "rules": [{"domain_suffix": ["poe.com", "poecdn.net", "qr.ae", "quora.com", "quoracdn.net"], "domain": ["www.quora.com.cdn.cloudflare.net"]}]}

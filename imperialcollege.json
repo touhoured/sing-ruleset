@@ -1,15 +1,1 @@
-{
-  "version": 2,
-  "rules": [
-    {
-      "domain_suffix": [
-        "ic.ac.uk",
-        "imperial.ac.uk",
-        "imperialbusiness.school"
-      ],
-      "domain": [
-        "imperial.insendi.com"
-      ]
-    }
-  ]
-}
+{"version": 2, "rules": [{"domain_suffix": ["ic.ac.uk", "imperial.ac.uk", "imperialbusiness.school"], "domain": ["imperial.insendi.com"]}]}

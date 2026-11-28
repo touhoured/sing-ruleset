@@ -1,12 +1,1 @@
-{
-  "version": 2,
-  "rules": [
-    {
-      "domain_suffix": [
-        "archive-it.org",
-        "archive.org",
-        "openlibrary.org"
-      ]
-    }
-  ]
-}
+{"version": 2, "rules": [{"domain_suffix": ["archive-it.org", "archive.org", "openlibrary.org"]}]}

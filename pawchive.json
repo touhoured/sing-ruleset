@@ -1,11 +1,1 @@
-{
-  "version": 2,
-  "rules": [
-    {
-      "domain_suffix": [
-        "pawchive.pw",
-        "pawchive.st"
-      ]
-    }
-  ]
-}
+{"version": 2, "rules": [{"domain_suffix": ["pawchive.pw", "pawchive.st"]}]}

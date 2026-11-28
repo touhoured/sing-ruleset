@@ -1,12 +1,1 @@
-{
-  "version": 2,
-  "rules": [
-    {
-      "domain_suffix": [
-        "fibank.bg",
-        "meawallet.app",
-        "myfin.bg"
-      ]
-    }
-  ]
-}
+{"version": 2, "rules": [{"domain_suffix": ["fibank.bg", "meawallet.app", "myfin.bg"]}]}

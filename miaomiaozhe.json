@@ -1,11 +1,1 @@
-{
-  "version": 2,
-  "rules": [
-    {
-      "domain_suffix": [
-        "miaomiaoz.com",
-        "miaomiaozhe.com"
-      ]
-    }
-  ]
-}
+{"version": 2, "rules": [{"domain_suffix": ["miaomiaoz.com", "miaomiaozhe.com"]}]}

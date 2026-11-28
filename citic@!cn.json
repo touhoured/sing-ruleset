@@ -1,12 +1,1 @@
-{
-  "version": 2,
-  "rules": [
-    {
-      "domain_suffix": [
-        "citics.com.hk",
-        "cncbinternational.com",
-        "csci.hk"
-      ]
-    }
-  ]
-}
+{"version": 2, "rules": [{"domain_suffix": ["citics.com.hk", "cncbinternational.com", "csci.hk"]}]}

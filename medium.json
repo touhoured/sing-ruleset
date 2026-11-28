@@ -1,11 +1,1 @@
-{
-  "version": 2,
-  "rules": [
-    {
-      "domain_suffix": [
-        "medium.com",
-        "medium.systems"
-      ]
-    }
-  ]
-}
+{"version": 2, "rules": [{"domain_suffix": ["medium.com", "medium.systems"]}]}

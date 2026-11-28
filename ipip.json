@@ -1,11 +1,1 @@
-{
-  "version": 2,
-  "rules": [
-    {
-      "domain_suffix": [
-        "ipip.net",
-        "myip.la"
-      ]
-    }
-  ]
-}
+{"version": 2, "rules": [{"domain_suffix": ["ipip.net", "myip.la"]}]}

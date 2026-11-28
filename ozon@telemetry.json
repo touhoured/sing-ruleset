@@ -1,10 +1,1 @@
-{
-  "version": 2,
-  "rules": [
-    {
-      "domain": [
-        "sentry.ozon.ru"
-      ]
-    }
-  ]
-}
+{"version": 2, "rules": [{"domain": ["sentry.ozon.ru"]}]}

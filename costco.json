@@ -1,12 +1,1 @@
-{
-  "version": 2,
-  "rules": [
-    {
-      "domain_suffix": [
-        "costco-static.com",
-        "costco.com",
-        "costcobusinessdelivery.com"
-      ]
-    }
-  ]
-}
+{"version": 2, "rules": [{"domain_suffix": ["costco-static.com", "costco.com", "costcobusinessdelivery.com"]}]}

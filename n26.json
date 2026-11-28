@@ -1,12 +1,1 @@
-{
-  "version": 2,
-  "rules": [
-    {
-      "domain_suffix": [
-        "n26.com",
-        "number26.de",
-        "tech26.de"
-      ]
-    }
-  ]
-}
+{"version": 2, "rules": [{"domain_suffix": ["n26.com", "number26.de", "tech26.de"]}]}

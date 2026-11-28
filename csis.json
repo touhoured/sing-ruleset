@@ -1,13 +1,1 @@
-{
-  "version": 2,
-  "rules": [
-    {
-      "domain_suffix": [
-        "csis.org"
-      ],
-      "domain": [
-        "csis-prod.s3.amazonaws.com"
-      ]
-    }
-  ]
-}
+{"version": 2, "rules": [{"domain_suffix": ["csis.org"], "domain": ["csis-prod.s3.amazonaws.com"]}]}

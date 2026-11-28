@@ -1,12 +1,1 @@
-{
-  "version": 2,
-  "rules": [
-    {
-      "domain_suffix": [
-        "rednote.com.my",
-        "rednote.com",
-        "rednotecdn.com"
-      ]
-    }
-  ]
-}
+{"version": 2, "rules": [{"domain_suffix": ["rednote.com.my", "rednote.com", "rednotecdn.com"]}]}

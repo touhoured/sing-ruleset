@@ -1,11 +1,1 @@
-{
-  "version": 2,
-  "rules": [
-    {
-      "domain_suffix": [
-        "crash2.zhihu.com",
-        "zhihu-web-analytics.zhihu.com"
-      ]
-    }
-  ]
-}
+{"version": 2, "rules": [{"domain_suffix": ["crash2.zhihu.com", "zhihu-web-analytics.zhihu.com"]}]}

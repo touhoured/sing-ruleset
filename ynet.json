@@ -1,12 +1,1 @@
-{
-  "version": 2,
-  "rules": [
-    {
-      "domain_suffix": [
-        "ynet.cn",
-        "ynet.com",
-        "ynet.com.cn"
-      ]
-    }
-  ]
-}
+{"version": 2, "rules": [{"domain_suffix": ["ynet.cn", "ynet.com", "ynet.com.cn"]}]}

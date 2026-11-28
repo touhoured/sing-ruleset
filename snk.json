@@ -1,12 +1,1 @@
-{
-  "version": 2,
-  "rules": [
-    {
-      "domain_suffix": [
-        "snk-corp.co.jp",
-        "snk-corp.info",
-        "snkplaymore.info"
-      ]
-    }
-  ]
-}
+{"version": 2, "rules": [{"domain_suffix": ["snk-corp.co.jp", "snk-corp.info", "snkplaymore.info"]}]}

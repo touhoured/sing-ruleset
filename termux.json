@@ -1,12 +1,1 @@
-{
-  "version": 2,
-  "rules": [
-    {
-      "domain_suffix": [
-        "termux.com",
-        "termux.dev",
-        "termux.org"
-      ]
-    }
-  ]
-}
+{"version": 2, "rules": [{"domain_suffix": ["termux.com", "termux.dev", "termux.org"]}]}

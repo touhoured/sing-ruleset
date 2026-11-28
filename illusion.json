@@ -1,11 +1,1 @@
-{
-  "version": 2,
-  "rules": [
-    {
-      "domain_suffix": [
-        "illusion.co.jp",
-        "illusion.jp"
-      ]
-    }
-  ]
-}
+{"version": 2, "rules": [{"domain_suffix": ["illusion.co.jp", "illusion.jp"]}]}

@@ -1,12 +1,1 @@
-{
-  "version": 2,
-  "rules": [
-    {
-      "domain_suffix": [
-        "comsenz.com",
-        "discuz.net",
-        "discuz.org"
-      ]
-    }
-  ]
-}
+{"version": 2, "rules": [{"domain_suffix": ["comsenz.com", "discuz.net", "discuz.org"]}]}

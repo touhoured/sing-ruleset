@@ -1,14 +1,1 @@
-{
-  "version": 2,
-  "rules": [
-    {
-      "domain_suffix": [
-        "crazedns.ru",
-        "netcraze.club",
-        "netcraze.link",
-        "netcraze.pro",
-        "netcraze.ru"
-      ]
-    }
-  ]
-}
+{"version": 2, "rules": [{"domain_suffix": ["crazedns.ru", "netcraze.club", "netcraze.link", "netcraze.pro", "netcraze.ru"]}]}

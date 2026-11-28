@@ -1,13 +1,1 @@
-{
-  "version": 2,
-  "rules": [
-    {
-      "domain_suffix": [
-        "disq.us",
-        "disqus.com",
-        "disquscdn.com",
-        "disqusservice.com"
-      ]
-    }
-  ]
-}
+{"version": 2, "rules": [{"domain_suffix": ["disq.us", "disqus.com", "disquscdn.com", "disqusservice.com"]}]}

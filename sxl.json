@@ -1,13 +1,1 @@
-{
-  "version": 2,
-  "rules": [
-    {
-      "domain_suffix": [
-        "mysxl.cn",
-        "sxl.cn",
-        "sxlcdn.cn",
-        "sxlcdn.com"
-      ]
-    }
-  ]
-}
+{"version": 2, "rules": [{"domain_suffix": ["mysxl.cn", "sxl.cn", "sxlcdn.cn", "sxlcdn.com"]}]}

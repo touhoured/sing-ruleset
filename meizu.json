@@ -1,15 +1,1 @@
-{
-  "version": 2,
-  "rules": [
-    {
-      "domain_suffix": [
-        "flyme.cn",
-        "flyme.com",
-        "flymeauto.com",
-        "meizu.cn",
-        "meizu.com",
-        "mzres.com"
-      ]
-    }
-  ]
-}
+{"version": 2, "rules": [{"domain_suffix": ["flyme.cn", "flyme.com", "flymeauto.com", "meizu.cn", "meizu.com", "mzres.com"]}]}

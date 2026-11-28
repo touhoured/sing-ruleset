@@ -1,14 +1,1 @@
-{
-  "version": 2,
-  "rules": [
-    {
-      "domain_suffix": [
-        "ctexcel.ca",
-        "ctexcel.com.hk",
-        "ctexcel.com",
-        "ctexcel.fr",
-        "ctexcel.us"
-      ]
-    }
-  ]
-}
+{"version": 2, "rules": [{"domain_suffix": ["ctexcel.ca", "ctexcel.com.hk", "ctexcel.com", "ctexcel.fr", "ctexcel.us"]}]}

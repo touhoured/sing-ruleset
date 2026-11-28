@@ -1,12 +1,1 @@
-{
-  "version": 2,
-  "rules": [
-    {
-      "domain_suffix": [
-        "miniso.cn",
-        "minisohome.cn",
-        "minsio.cn"
-      ]
-    }
-  ]
-}
+{"version": 2, "rules": [{"domain_suffix": ["miniso.cn", "minisohome.cn", "minsio.cn"]}]}

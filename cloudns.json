@@ -1,11 +1,1 @@
-{
-  "version": 2,
-  "rules": [
-    {
-      "domain_suffix": [
-        "cloudns.nz",
-        "cloudns.ph"
-      ]
-    }
-  ]
-}
+{"version": 2, "rules": [{"domain_suffix": ["cloudns.nz", "cloudns.ph"]}]}

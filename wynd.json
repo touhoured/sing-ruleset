@@ -1,11 +1,1 @@
-{
-  "version": 2,
-  "rules": [
-    {
-      "domain_suffix": [
-        "wynd.network",
-        "wyndlabs.ai"
-      ]
-    }
-  ]
-}
+{"version": 2, "rules": [{"domain_suffix": ["wynd.network", "wyndlabs.ai"]}]}

@@ -1,11 +1,1 @@
-{
-  "version": 2,
-  "rules": [
-    {
-      "domain_suffix": [
-        "moonvy.com",
-        "moonvy.cool"
-      ]
-    }
-  ]
-}
+{"version": 2, "rules": [{"domain_suffix": ["moonvy.com", "moonvy.cool"]}]}

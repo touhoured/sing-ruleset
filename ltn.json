@@ -1,11 +1,1 @@
-{
-  "version": 2,
-  "rules": [
-    {
-      "domain_suffix": [
-        "ltn.com.tw",
-        "yes123.com.tw"
-      ]
-    }
-  ]
-}
+{"version": 2, "rules": [{"domain_suffix": ["ltn.com.tw", "yes123.com.tw"]}]}

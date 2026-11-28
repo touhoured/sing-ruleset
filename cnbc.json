@@ -1,12 +1,1 @@
-{
-  "version": 2,
-  "rules": [
-    {
-      "domain_suffix": [
-        "cnbc.com",
-        "cnbccouncils.com",
-        "cnbcfm.com"
-      ]
-    }
-  ]
-}
+{"version": 2, "rules": [{"domain_suffix": ["cnbc.com", "cnbccouncils.com", "cnbcfm.com"]}]}

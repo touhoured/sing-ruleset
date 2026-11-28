@@ -1,12 +1,1 @@
-{
-  "version": 2,
-  "rules": [
-    {
-      "domain_suffix": [
-        "kkmh.com",
-        "kuaikanmanhua.com",
-        "v3mh.com"
-      ]
-    }
-  ]
-}
+{"version": 2, "rules": [{"domain_suffix": ["kkmh.com", "kuaikanmanhua.com", "v3mh.com"]}]}

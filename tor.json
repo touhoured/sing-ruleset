@@ -1,12 +1,1 @@
-{
-  "version": 2,
-  "rules": [
-    {
-      "domain_suffix": [
-        "exit",
-        "onion",
-        "tor"
-      ]
-    }
-  ]
-}
+{"version": 2, "rules": [{"domain_suffix": ["exit", "onion", "tor"]}]}

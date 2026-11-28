@@ -1,11 +1,1 @@
-{
-  "version": 2,
-  "rules": [
-    {
-      "domain_suffix": [
-        "cylink.pro",
-        "cylink0122.icu"
-      ]
-    }
-  ]
-}
+{"version": 2, "rules": [{"domain_suffix": ["cylink.pro", "cylink0122.icu"]}]}

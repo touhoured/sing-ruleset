@@ -1,13 +1,1 @@
-{
-  "version": 2,
-  "rules": [
-    {
-      "domain_suffix": [
-        "getsentry.com",
-        "sentry-cdn.com",
-        "sentry.dev",
-        "sentry.io"
-      ]
-    }
-  ]
-}
+{"version": 2, "rules": [{"domain_suffix": ["getsentry.com", "sentry-cdn.com", "sentry.dev", "sentry.io"]}]}

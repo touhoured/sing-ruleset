@@ -1,13 +1,1 @@
-{
-  "version": 2,
-  "rules": [
-    {
-      "domain_suffix": [
-        "subscene.com"
-      ],
-      "domain": [
-        "i.jeded.com"
-      ]
-    }
-  ]
-}
+{"version": 2, "rules": [{"domain_suffix": ["subscene.com"], "domain": ["i.jeded.com"]}]}

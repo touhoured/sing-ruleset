@@ -1,13 +1,1 @@
-{
-  "version": 2,
-  "rules": [
-    {
-      "domain_suffix": [
-        "open.cachefly.net",
-        "openspeedtest.com",
-        "openspeedtest.in",
-        "openspeedtest.org"
-      ]
-    }
-  ]
-}
+{"version": 2, "rules": [{"domain_suffix": ["open.cachefly.net", "openspeedtest.com", "openspeedtest.in", "openspeedtest.org"]}]}

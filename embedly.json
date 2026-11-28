@@ -1,12 +1,1 @@
-{
-  "version": 2,
-  "rules": [
-    {
-      "domain_suffix": [
-        "embed.ly",
-        "embedly.com",
-        "playerjs.io"
-      ]
-    }
-  ]
-}
+{"version": 2, "rules": [{"domain_suffix": ["embed.ly", "embedly.com", "playerjs.io"]}]}

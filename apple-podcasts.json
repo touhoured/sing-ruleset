@@ -1,15 +1,1 @@
-{
-  "version": 2,
-  "rules": [
-    {
-      "domain_suffix": [
-        "applepodcasts.com",
-        "podcasts.apple.com"
-      ],
-      "domain": [
-        "amp-api.podcasts.apple.com",
-        "podcasts.apple.com"
-      ]
-    }
-  ]
-}
+{"version": 2, "rules": [{"domain_suffix": ["applepodcasts.com", "podcasts.apple.com"], "domain": ["amp-api.podcasts.apple.com", "podcasts.apple.com"]}]}

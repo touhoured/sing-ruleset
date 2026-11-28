@@ -1,12 +1,1 @@
-{
-  "version": 2,
-  "rules": [
-    {
-      "domain_suffix": [
-        "ptzwx.com",
-        "quanben-xiaoshuo.com",
-        "quanben.io"
-      ]
-    }
-  ]
-}
+{"version": 2, "rules": [{"domain_suffix": ["ptzwx.com", "quanben-xiaoshuo.com", "quanben.io"]}]}

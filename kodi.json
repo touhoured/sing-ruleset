@@ -1,11 +1,1 @@
-{
-  "version": 2,
-  "rules": [
-    {
-      "domain_suffix": [
-        "kodi.tv",
-        "kodi.wiki"
-      ]
-    }
-  ]
-}
+{"version": 2, "rules": [{"domain_suffix": ["kodi.tv", "kodi.wiki"]}]}

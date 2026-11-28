@@ -1,11 +1,1 @@
-{
-  "version": 2,
-  "rules": [
-    {
-      "domain_suffix": [
-        "faceit-cdn.net",
-        "faceit.com"
-      ]
-    }
-  ]
-}
+{"version": 2, "rules": [{"domain_suffix": ["faceit-cdn.net", "faceit.com", "fce.gg"]}]}

@@ -1,11 +1,1 @@
-{
-  "version": 2,
-  "rules": [
-    {
-      "domain_suffix": [
-        "bootstrapcdn.com",
-        "getbootstrap.com"
-      ]
-    }
-  ]
-}
+{"version": 2, "rules": [{"domain_suffix": ["bootstrapcdn.com", "getbootstrap.com"]}]}

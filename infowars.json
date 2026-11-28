@@ -1,12 +1,1 @@
-{
-  "version": 2,
-  "rules": [
-    {
-      "domain_suffix": [
-        "banned.video",
-        "infowars.com",
-        "infowarsmedia.com"
-      ]
-    }
-  ]
-}
+{"version": 2, "rules": [{"domain_suffix": ["banned.video", "infowars.com", "infowarsmedia.com"]}]}

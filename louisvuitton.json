@@ -1,12 +1,1 @@
-{
-  "version": 2,
-  "rules": [
-    {
-      "domain_suffix": [
-        "louisvuitton.cn",
-        "louisvuitton.com",
-        "lvcampaign.com"
-      ]
-    }
-  ]
-}
+{"version": 2, "rules": [{"domain_suffix": ["louisvuitton.cn", "louisvuitton.com", "lvcampaign.com"]}]}

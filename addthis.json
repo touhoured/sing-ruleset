@@ -1,12 +1,1 @@
-{
-  "version": 2,
-  "rules": [
-    {
-      "domain_suffix": [
-        "addthis.com",
-        "addthiscdn.com",
-        "addthisedge.com"
-      ]
-    }
-  ]
-}
+{"version": 2, "rules": [{"domain_suffix": ["addthis.com", "addthiscdn.com", "addthisedge.com"]}]}

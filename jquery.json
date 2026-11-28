@@ -1,12 +1,1 @@
-{
-  "version": 2,
-  "rules": [
-    {
-      "domain_suffix": [
-        "jquery.com",
-        "jquerymobile.com",
-        "jqueryui.com"
-      ]
-    }
-  ]
-}
+{"version": 2, "rules": [{"domain_suffix": ["jquery.com", "jquerymobile.com", "jqueryui.com"]}]}

@@ -1,13 +1,1 @@
-{
-  "version": 2,
-  "rules": [
-    {
-      "domain_suffix": [
-        "ikea.cn",
-        "ingka-dt.cn",
-        "ingka-internal.cn",
-        "ingka-system.cn"
-      ]
-    }
-  ]
-}
+{"version": 2, "rules": [{"domain_suffix": ["ikea.cn", "ingka-dt.cn", "ingka-internal.cn", "ingka-system.cn"]}]}

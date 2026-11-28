@@ -1,11 +1,1 @@
-{
-  "version": 2,
-  "rules": [
-    {
-      "domain_suffix": [
-        "log-upload-os.hoyoverse.com",
-        "log-upload.mihoyo.com"
-      ]
-    }
-  ]
-}
+{"version": 2, "rules": [{"domain_suffix": ["log-upload-os.hoyoverse.com", "log-upload.mihoyo.com"]}]}

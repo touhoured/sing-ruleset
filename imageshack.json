@@ -1,11 +1,1 @@
-{
-  "version": 2,
-  "rules": [
-    {
-      "domain_suffix": [
-        "imageshack.com",
-        "imageshack.us"
-      ]
-    }
-  ]
-}
+{"version": 2, "rules": [{"domain_suffix": ["imageshack.com", "imageshack.us"]}]}

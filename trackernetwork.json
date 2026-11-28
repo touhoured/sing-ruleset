@@ -1,12 +1,1 @@
-{
-  "version": 2,
-  "rules": [
-    {
-      "domain_suffix": [
-        "thetrackernetwork.com",
-        "tracker.gg",
-        "tracker.network"
-      ]
-    }
-  ]
-}
+{"version": 2, "rules": [{"domain_suffix": ["thetrackernetwork.com", "tracker.gg", "tracker.network"]}]}

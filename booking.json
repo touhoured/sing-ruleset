@@ -1,12 +1,1 @@
-{
-  "version": 2,
-  "rules": [
-    {
-      "domain_suffix": [
-        "booking.cn",
-        "booking.com",
-        "bstatic.com"
-      ]
-    }
-  ]
-}
+{"version": 2, "rules": [{"domain_suffix": ["booking.cn", "booking.com", "bstatic.com"]}]}

@@ -1,11 +1,1 @@
-{
-  "version": 2,
-  "rules": [
-    {
-      "domain_suffix": [
-        "anon-v.com",
-        "anon-v.lol"
-      ]
-    }
-  ]
-}
+{"version": 2, "rules": [{"domain_suffix": ["anon-v.com", "anon-v.lol"]}]}

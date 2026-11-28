@@ -1,12 +1,1 @@
-{
-  "version": 2,
-  "rules": [
-    {
-      "domain_suffix": [
-        "aviasales.com",
-        "aviasales.ru",
-        "avs.io"
-      ]
-    }
-  ]
-}
+{"version": 2, "rules": [{"domain_suffix": ["aviasales.com", "aviasales.ru", "avs.io"]}]}

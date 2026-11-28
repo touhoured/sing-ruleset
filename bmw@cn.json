@@ -1,12 +1,1 @@
-{
-  "version": 2,
-  "rules": [
-    {
-      "domain_suffix": [
-        "alphabet.com.cn",
-        "alphabet.net.cn",
-        "bmw.com.cn"
-      ]
-    }
-  ]
-}
+{"version": 2, "rules": [{"domain_suffix": ["alphabet.com.cn", "alphabet.net.cn", "bmw.com.cn"]}]}

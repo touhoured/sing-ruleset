@@ -1,11 +1,1 @@
-{
-  "version": 2,
-  "rules": [
-    {
-      "domain_suffix": [
-        "setn.com",
-        "settv.com.tw"
-      ]
-    }
-  ]
-}
+{"version": 2, "rules": [{"domain_suffix": ["setn.com", "settv.com.tw"]}]}

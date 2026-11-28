@@ -1,12 +1,1 @@
-{
-  "version": 2,
-  "rules": [
-    {
-      "domain_suffix": [
-        "bestbuy.cn",
-        "bestbuy.com.cn",
-        "magnoliaav.com.cn"
-      ]
-    }
-  ]
-}
+{"version": 2, "rules": [{"domain_suffix": ["bestbuy.cn", "bestbuy.com.cn", "magnoliaav.com.cn"]}]}

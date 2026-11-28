@@ -1,11 +1,1 @@
-{
-  "version": 2,
-  "rules": [
-    {
-      "domain_suffix": [
-        "pubmatic.co.jp",
-        "pubmatic.com"
-      ]
-    }
-  ]
-}
+{"version": 2, "rules": [{"domain_suffix": ["pubmatic.co.jp", "pubmatic.com"]}]}

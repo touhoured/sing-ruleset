@@ -1,12 +1,1 @@
-{
-  "version": 2,
-  "rules": [
-    {
-      "domain_suffix": [
-        "opengw.net",
-        "vpngate.jp",
-        "vpngate.net"
-      ]
-    }
-  ]
-}
+{"version": 2, "rules": [{"domain_suffix": ["opengw.net", "vpngate.jp", "vpngate.net"]}]}

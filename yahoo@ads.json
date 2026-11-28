@@ -1,12 +1,1 @@
-{
-  "version": 2,
-  "rules": [
-    {
-      "domain_suffix": [
-        "ads.yahoo.com",
-        "gemini.yahoo.com",
-        "ysm.yahoo.com"
-      ]
-    }
-  ]
-}
+{"version": 2, "rules": [{"domain_suffix": ["ads.yahoo.com", "gemini.yahoo.com", "ysm.yahoo.com"]}]}

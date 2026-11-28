@@ -1,11 +1,1 @@
-{
-  "version": 2,
-  "rules": [
-    {
-      "domain_suffix": [
-        "freedomplatform.tv",
-        "londonreal.tv"
-      ]
-    }
-  ]
-}
+{"version": 2, "rules": [{"domain_suffix": ["freedomplatform.tv", "londonreal.tv"]}]}

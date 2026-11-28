@@ -1,14 +1,1 @@
-{
-  "version": 2,
-  "rules": [
-    {
-      "domain_suffix": [
-        "acmvid.com",
-        "mvideo.ru"
-      ],
-      "domain": [
-        "mvideo.edna.io"
-      ]
-    }
-  ]
-}
+{"version": 2, "rules": [{"domain_suffix": ["acmvid.com", "mvideo.ru"], "domain": ["mvideo.edna.io"]}]}

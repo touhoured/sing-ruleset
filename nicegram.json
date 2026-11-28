@@ -1,12 +1,1 @@
-{
-  "version": 2,
-  "rules": [
-    {
-      "domain_suffix": [
-        "adsgram.ai",
-        "nicegram.app",
-        "nicegram.cloud"
-      ]
-    }
-  ]
-}
+{"version": 2, "rules": [{"domain_suffix": ["adsgram.ai", "nicegram.app", "nicegram.cloud"]}]}

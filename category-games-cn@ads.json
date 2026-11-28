@@ -1,11 +1,1 @@
-{
-  "version": 2,
-  "rules": [
-    {
-      "domain_suffix": [
-        "kurogames-ads.com",
-        "log-upload.mihoyo.com"
-      ]
-    }
-  ]
-}
+{"version": 2, "rules": [{"domain_suffix": ["kurogames-ads.com", "log-upload.mihoyo.com"]}]}

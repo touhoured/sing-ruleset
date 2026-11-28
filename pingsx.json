@@ -1,13 +1,1 @@
-{
-  "version": 2,
-  "rules": [
-    {
-      "domain_suffix": [
-        "ping.sx"
-      ],
-      "domain": [
-        "public-us-pingsx.api.clonoth.com"
-      ]
-    }
-  ]
-}
+{"version": 2, "rules": [{"domain_suffix": ["ping.sx"], "domain": ["public-us-pingsx.api.clonoth.com"]}]}

@@ -1,15 +1,1 @@
-{
-  "version": 2,
-  "rules": [
-    {
-      "domain_suffix": [
-        "heavenlywind.cc",
-        "ldmnq.com",
-        "lsplayer.com",
-        "rpglogs.cn",
-        "steampp.net",
-        "yeshen.com"
-      ]
-    }
-  ]
-}
+{"version": 2, "rules": [{"domain_suffix": ["heavenlywind.cc", "ldmnq.com", "lsplayer.com", "rpglogs.cn", "steampp.net", "yeshen.com"]}]}

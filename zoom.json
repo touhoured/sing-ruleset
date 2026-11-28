@@ -1,12 +1,1 @@
-{
-  "version": 2,
-  "rules": [
-    {
-      "domain_suffix": [
-        "zoom.com",
-        "zoom.com.cn",
-        "zoom.us"
-      ]
-    }
-  ]
-}
+{"version": 2, "rules": [{"domain_suffix": ["zoom.com", "zoom.com.cn", "zoom.us"]}]}

@@ -1,12 +1,1 @@
-{
-  "version": 2,
-  "rules": [
-    {
-      "domain_suffix": [
-        "clearbit.com",
-        "clearbitjs.com",
-        "clearbitscripts.com"
-      ]
-    }
-  ]
-}
+{"version": 2, "rules": [{"domain_suffix": ["clearbit.com", "clearbitjs.com", "clearbitscripts.com"]}]}
